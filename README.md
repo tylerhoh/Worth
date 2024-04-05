@@ -1,4 +1,4 @@
-###Worth
+##Worth
 Worth is a sandbox merchant app I'm using to test an open-banking API
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
