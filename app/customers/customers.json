@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Man Mannington",
+      "merchant": "Menswear",
+      "slug": "man-mannington"
+    },
+    {
+      "name": "Franz Kafka",
+      "merchant": "Gregor Samsa Clothing",
+      "slug": "franz-kafka"
+    },
+    {
+      "name": "Conor McGregor",
+      "merchant": "McGregor Fast",
+      "slug": "conor-mcgregor"
+    }
+  ]

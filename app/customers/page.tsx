@@ -1,8 +1,7 @@
 import Link from 'next/link'
-import Image from 'next/image'
-import { Customer, getCustomers } from './_utilities/customers'
+import { Customer, getCustomers } from '../_utilities/customers'
 
-export default async function Home() {
+export default async function Customers() {
   const customers = await getCustomers()
 
   return (
